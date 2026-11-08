@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/clpsych2025-questmf/commit/3776a2bb84927b2613abf5686322b63957158c68",
       "git:hexsha": "3776a2bb84927b2613abf5686322b63957158c68",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T18:51:46.035060+00:00"
     }
   ]
 }
